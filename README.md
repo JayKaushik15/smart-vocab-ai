@@ -41,7 +41,6 @@
 - ✅ News articles & blogs
 - ✅ Online research papers
 - ✅ Wikipedia & documentation
-- ✅ PDFs opened in Chrome (both online & from desktop)
 - ✅ Any webpage with text
 
 ---
